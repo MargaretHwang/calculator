@@ -1,0 +1,15 @@
+/Users/kinobook/Projects/Calculator/Calculator/bin/Debug/net7.0/Calculator
+/Users/kinobook/Projects/Calculator/Calculator/bin/Debug/net7.0/Calculator.deps.json
+/Users/kinobook/Projects/Calculator/Calculator/bin/Debug/net7.0/Calculator.runtimeconfig.json
+/Users/kinobook/Projects/Calculator/Calculator/bin/Debug/net7.0/Calculator.dll
+/Users/kinobook/Projects/Calculator/Calculator/bin/Debug/net7.0/Calculator.pdb
+/Users/kinobook/Projects/Calculator/Calculator/obj/Debug/net7.0/Calculator.csproj.AssemblyReference.cache
+/Users/kinobook/Projects/Calculator/Calculator/obj/Debug/net7.0/Calculator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kinobook/Projects/Calculator/Calculator/obj/Debug/net7.0/Calculator.AssemblyInfoInputs.cache
+/Users/kinobook/Projects/Calculator/Calculator/obj/Debug/net7.0/Calculator.AssemblyInfo.cs
+/Users/kinobook/Projects/Calculator/Calculator/obj/Debug/net7.0/Calculator.csproj.CoreCompileInputs.cache
+/Users/kinobook/Projects/Calculator/Calculator/obj/Debug/net7.0/Calculator.dll
+/Users/kinobook/Projects/Calculator/Calculator/obj/Debug/net7.0/refint/Calculator.dll
+/Users/kinobook/Projects/Calculator/Calculator/obj/Debug/net7.0/Calculator.pdb
+/Users/kinobook/Projects/Calculator/Calculator/obj/Debug/net7.0/Calculator.genruntimeconfig.cache
+/Users/kinobook/Projects/Calculator/Calculator/obj/Debug/net7.0/ref/Calculator.dll
