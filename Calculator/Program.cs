@@ -24,13 +24,14 @@ class Program
         if (action == "*")
             Console.WriteLine("Result: " + (numberOne * numberTwo));
         if (action == "/")
-        
             if (numberTwo == 0)
                 Console.WriteLine("Error,you can't divide by 0");
             else
                 Console.WriteLine("Result: " + (numberOne / numberTwo));
-        
-
+        if (action == "%")
+            Console.WriteLine("Result: " + Math.Round(((numberOne / numberTwo) * 100), 1));
+        if (action == "^")
+            Console.WriteLine("Result: " + Math.Pow(numberOne, numberTwo));
     }
 
     static double InputCheck()
