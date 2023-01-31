@@ -8,10 +8,15 @@ class Program
         {
             Console.WriteLine("введите первое число");
             double numberOne = InputCheck();
+
             Console.WriteLine("введите действие");
             string action = Console.ReadLine();
+            if (action == "q")
+                return;
+            
             Console.WriteLine("введите второе число");
             double numberTwo = InputCheck();
+
             Actions(action, numberOne, numberTwo);
         }
     }
